@@ -1,0 +1,49 @@
+{
+    "token": "ODg4NzMyMDQ1OTIzMjIxNTU0.YUW-Nw.xSMiJIRp8F5_jbU3cMtQQ8KT2Ck",
+    "prefix": "+",
+    "color": "#000000",
+    "footer": "ˣᴮᵒᵗ | ⱽ¹",
+    "tickets_category": "888730356759535636",
+    "tickets_claim_channel": "888730452901380106",
+    "welcome_channel_id": "888729175962308631",
+    "verifiedRoleId": "888730047664496680",
+    "messages": {
+        "panel": {
+            "title": "xʙᴏᴛ",
+            "description": "**Ticket Creation:**\n\n ➠*React to* 🥞 *to purchase any sub*\n\n",
+            "reaction": "🥞"
+		
+		},
+        "cpanel": {
+            "title": "Ticket Creation",
+            "description": "React to create ticket",
+            "reaction": "🎟"
+        },
+        "vpanel": {
+            "title": "xʙᴏᴛ ✔️",
+            "description": "React to ✅ to Verify \n\n *Make Sure to Read Rules and Respect Staff* ",
+            "buttonStyle": "PRIMARY",
+            "buttonLabel": "✅"
+        },
+        "review": {
+            "title": "Welcomne",
+            "description": "Yes"
+        },
+        "error": {
+            "title": "Test",
+            "description": "Test"
+        },
+        "tickets": {
+            "welcome": {
+                "title": "Thank you for chosing ˣᵐᵃʳᵏᵉᵗ",
+                "description": "Please what u want in this format: \n\n [1] What sub u want? \n\n [2] Username on the website \n\n [3] What payment method"
+            }
+        },
+        "welcome": {
+            "title": "Welcome %user%",
+            "description": "Welcome %user% to server",
+            "imgUrl": "https://cdn.discordapp.com/attachments/875352769425469461/877192707729145866/unknown.png",
+            "footer": "ˣᴮᵒᵗ | ⱽ¹"
+        }
+    }
+}
